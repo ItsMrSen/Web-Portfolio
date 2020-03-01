@@ -1,0 +1,18 @@
+body{
+    font-family: 'Ubuntu';
+}
+h1{
+    font-size: 50px;
+}
+.clr1{
+    color: rgb(1, 18, 247);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
