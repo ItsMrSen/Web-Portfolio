@@ -10,6 +10,7 @@ h2{
 }
 p{
     color: dimgrey;
+    text-align: left;
 }
 .clr1{
     color: rgb(1, 18, 247);
@@ -52,11 +53,15 @@ section{
     box-shadow: 10px 20px 40px gray;
     border-radius: 10px;
     height: 60%;
+    
 }
 .experince{
     background-image: url("web/Dream Left.png");
     background-repeat: no-repeat;
     background-position: left;
+    
+   
+
 }
 #full-stack{
     border-left:  7px solid lime;
@@ -70,5 +75,5 @@ section{
 footer{
     text-align: center;
     font-size: 12px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
